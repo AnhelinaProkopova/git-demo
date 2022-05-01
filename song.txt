@@ -4,5 +4,3 @@ first line
 789
 1012
 last line
-hello
-hi
